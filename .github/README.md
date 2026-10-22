@@ -14,7 +14,6 @@ assets/
       netherite_scrap.png
       netherite_shovel.png
       netherite_sword.png
-      shield.png
       stick.png
 ```
 
