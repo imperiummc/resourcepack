@@ -2,6 +2,9 @@ name: CI
 
 on: [push, workflow_dispatch]
 
+permissions:
+  contents: write
+
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
@@ -12,50 +15,20 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v7
-      - name: pack.mcmeta
-        run: |
-          GITHUB_SHA=$(git rev-parse --short ${{ github.sha }})
-          GITHUB_REF_NAME=$(echo ${{ github.ref_type == 'tag' && github.ref_name || 'dev' }})
-          tmp="$(mktemp)"
-          envsubst '${GITHUB_SHA},${GITHUB_REF_NAME}' <pack.mcmeta >"$tmp" && mv "$tmp" pack.mcmeta
+      - name: resourcepack / checkout
+        uses: actions/checkout@v7
 
-      - name: zip
-        run: |
-          test -d assets
-          test -f pack.mcmeta
-          test -f pack.png
-          zip -rqX "ImperiumMC Resource Pack.zip" assets/ pack.mcmeta pack.png -x '*/.*'
+      - name: resourcepack / make
+        run: make
+        env:
+          VERSION: ${{ github.ref_type == 'tag' && github.ref_name || 'dev' }}
 
-  release:
-    name: Release
-    needs: build
-    if: ${{ github.ref_type == 'tag' || github.event_name == 'workflow_dispatch' }}
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
-    steps:
-      - uses: actions/checkout@v7
-      - name: pack.mcmeta
-        run: |
-          GITHUB_SHA=$(git rev-parse --short ${{ github.sha }})
-          GITHUB_REF_NAME=$(echo ${{ github.ref_type == 'tag' && github.ref_name || 'dev' }})
-          tmp="$(mktemp)"
-          envsubst '${GITHUB_SHA},${GITHUB_REF_NAME}' <pack.mcmeta >"$tmp" && mv "$tmp" pack.mcmeta
-
-      - name: zip
-        run: |
-          test -d assets
-          test -f pack.mcmeta
-          test -f pack.png
-          zip -rqX "ImperiumMC Resource Pack.zip" assets/ pack.mcmeta pack.png -x '*/.*'
-
-      - name: Release
+      - if: ${{ github.ref_type == 'tag' || github.event_name == 'workflow_dispatch' }}
+        name: resourcepack / release
         uses: softprops/action-gh-release@v3
         with:
           name: ImperiumMC ${{ github.ref_name }}
-          files: ImperiumMC Resource Pack.zip
+          files: ImperiumMC.Resource.Pack.zip
           draft: true
           fail_on_unmatched_files: true
           generate_release_notes: true

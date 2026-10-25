@@ -1,7 +1,0 @@
-{
-  "pack": {
-    "description": "§9ImperiumMC Resource Pack\n§7${GITHUB_REF_NAME} §8${GITHUB_SHA}",
-    "min_format": 88,
-    "max_format": 88
-  }
-}

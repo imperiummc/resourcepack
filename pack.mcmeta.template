@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "§9ImperiumMC Resource Pack\n§7${VERSION} §8${COMMIT}",
+    "min_format": 88,
+    "max_format": 88
+  }
+}
