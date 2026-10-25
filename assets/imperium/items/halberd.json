@@ -1,0 +1,43 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:display_context",
+    "cases": [
+      {
+        "when": [
+          "gui",
+          "ground",
+          "fixed",
+          "on_shelf"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/netherite_spear"
+        }
+      },
+      {
+        "when": [
+          "thirdperson_righthand",
+          "thirdperson_lefthand"
+        ],
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:using_item",
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "imperium:item/halberd_in_hand"
+          },
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "imperium:item/halberd_idle"
+          }
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "imperium:item/halberd_in_hand"
+    }
+  },
+  "swap_animation_scale": 1.95
+}
