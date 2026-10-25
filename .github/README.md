@@ -53,3 +53,11 @@ assets/
         beetroot_seeds.png
         lettuce.png
 ```
+
+## Releasing
+
+With trunk pushed and checked out, run `.github/scripts/release patch` (or
+`minor`, `major`). It builds the pack and tags the next version. Push the tag
+it prints, and CI attaches `ImperiumMC.Resource.Pack.zip` to a draft GitHub
+release for that tag. Publish the draft to make it the latest release, which
+is the one the server's `resource-pack` URL downloads.

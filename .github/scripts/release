@@ -1,0 +1,55 @@
+#!/bin/sh
+#
+# Release the resource pack: tag trunk as the next version. Pushing the tag makes
+# CI attach ImperiumMC.Resource.Pack.zip to a draft GitHub release. Nothing is
+# pushed.
+#
+# Usage: .github/scripts/release major|minor|patch
+
+set -eu
+
+err() {
+  printf 'error: %s\n' "$*" >&2
+  exit 1
+}
+
+bump="$*"
+case "${bump}" in
+  major | minor | patch) ;;
+  *) err "usage: .github/scripts/release major|minor|patch" ;;
+esac
+
+cd -- "$(dirname -- "$0")/../.."
+
+if ! git diff --quiet HEAD --; then
+  err "the repository has uncommitted changes"
+fi
+
+git fetch --quiet --force --tags origin
+headHash="$(git rev-parse HEAD)"
+trunkHash="$(git rev-parse origin/trunk)"
+if [ "${headHash}" != "${trunkHash}" ]; then
+  err "HEAD is not origin/trunk, push or pull until it is"
+fi
+
+latest="$(git tag --list 'v[0-9]*.[0-9]*.[0-9]*' --sort=-v:refname | head -n 1)"
+if [ -z "${latest}" ]; then
+  err "no vX.Y.Z tag to release from"
+fi
+commits="$(git rev-list --count "${latest}..HEAD")"
+if [ "${commits}" -eq 0 ]; then
+  err "nothing to release since ${latest}"
+fi
+
+new="v$(echo "${latest#v}" | awk -F. -v bump="${bump}" '
+  bump == "major" { print $1 + 1 ".0.0" }
+  bump == "minor" { print $1 "." $2 + 1 ".0" }
+  bump == "patch" { print $1 "." $2 "." $3 + 1 }')"
+
+# Build the zip CI will publish for this tag, so a broken build fails here.
+make VERSION="${new}" || err "failed to build the pack"
+
+git tag -a "${new}" -m "release: ${new}"
+
+echo "Tagged ${new}, please review before pushing:"
+echo "  git push origin ${new}"
