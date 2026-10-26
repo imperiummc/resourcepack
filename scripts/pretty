@@ -1,0 +1,14 @@
+#!/bin/sh
+#
+# Reformat the non-binary assets using `prettier`.
+
+set -eu
+
+cd -- "$(git rev-parse --show-toplevel)"
+
+pretty="${PRETTIER:-prettier}"
+if ! command -v "${pretty}" >/dev/null 2>&1; then
+  pretty='npx prettier'
+fi
+
+command ${pretty} --ignore-unknown --log-level=warn --write -- '**/*.json' '**/*.mcmeta'

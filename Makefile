@@ -10,6 +10,11 @@ PACK = ImperiumMC.Resource.Pack.zip
 
 all: $(PACK)
 
+pretty:
+	@echo 'Prettying...'
+	scripts/pretty
+	@echo 'Done.'
+
 pack.mcmeta: pack.mcmeta.template
 	@echo 'Writing metadata...'
 	envsubst '$${COMMIT},$${VERSION}' <$< >$@
