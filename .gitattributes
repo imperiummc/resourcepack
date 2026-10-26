@@ -2,5 +2,7 @@
 .gitattributes export-ignore
 .gitignore export-ignore
 
+scripts/ export-ignore
 Makefile export-ignore
+
 pack.mcmeta.template export-ignore

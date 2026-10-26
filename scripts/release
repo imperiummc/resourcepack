@@ -4,7 +4,7 @@
 # CI attach ImperiumMC.Resource.Pack.zip to a draft GitHub release. Nothing is
 # pushed.
 #
-# Usage: .github/scripts/release major|minor|patch
+# Usage: scripts/release major|minor|patch
 
 set -eu
 
@@ -16,10 +16,10 @@ err() {
 bump="$*"
 case "${bump}" in
   major | minor | patch) ;;
-  *) err "usage: .github/scripts/release major|minor|patch" ;;
+  *) err "usage: scripts/release major|minor|patch" ;;
 esac
 
-cd -- "$(dirname -- "$0")/../.."
+cd -- "$(dirname -- "$0")/.."
 
 if ! git diff --quiet HEAD --; then
   err "the repository has uncommitted changes"
