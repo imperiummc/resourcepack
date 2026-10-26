@@ -1,7 +1,7 @@
 {
-	"credit": "Made with Blockbench, by regfunkid :3",
-	"parent": "rmf:block/item_crate",
-	"textures": {
-		"texture": "rmf:block/item_crate/strawberry"
-	}
+  "credit": "Made with Blockbench, by regfunkid :3",
+  "parent": "rmf:block/item_crate",
+  "textures": {
+    "texture": "rmf:block/item_crate/strawberry"
+  }
 }

@@ -1,9 +1,9 @@
 {
-    "layers": {
-      "humanoid": [
-        {
-          "texture": "rmf:lousy_shirt"
-        }
-      ]
-    }
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "rmf:lousy_shirt"
+      }
+    ]
   }
+}

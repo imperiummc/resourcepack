@@ -1,42 +1,42 @@
 {
-	"format_version": "1.21.11",
-	"credit": "Made with Blockbench, created by regfunkid :3",
-	"parent": "minecraft:item/handheld",
-	"textures": {
-		"layer0": "rmf:item/scythe"
-	},
-	"display": {
-		"thirdperson_righthand": {
-			"rotation": [-26, -90, 0],
-			"translation": [0, 4, 2],
-			"scale": [1.05313, 1.05313, 1.05313]
-		},
-		"thirdperson_lefthand": {
-			"rotation": [-26, 90, 0],
-			"translation": [0, 4, 2],
-			"scale": [1.05313, 1.05313, 1.05313]
-		},
-		"firstperson_righthand": {
-			"rotation": [-160, -89, -131.5],
-			"translation": [0.63, 5.7, 1.13],
-			"scale": [0.79133, 0.79133, 0.79133]
-		},
-		"firstperson_lefthand": {
-			"rotation": [110, 89, -131.5],
-			"translation": [0.63, 5.7, 1.13],
-			"scale": [0.79133, 0.79133, 0.79133]
-		},
-		"ground": {
-			"translation": [0, 3, 0],
-			"scale": [0.7, 0.7, 0.7]
-		},
-		"gui": {
-			"translation": [-0.5, 0.5, 0]
-		},
-		"on_shelf": {
-			"rotation": [-45, -90, 0],
-			"translation": [0, -0.5, -0.75],
-			"scale": [1.52734, 1.52734, 1.52734]
-		}
-	}
+  "format_version": "1.21.11",
+  "credit": "Made with Blockbench, created by regfunkid :3",
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "rmf:item/scythe"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [-26, -90, 0],
+      "translation": [0, 4, 2],
+      "scale": [1.05313, 1.05313, 1.05313]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [-26, 90, 0],
+      "translation": [0, 4, 2],
+      "scale": [1.05313, 1.05313, 1.05313]
+    },
+    "firstperson_righthand": {
+      "rotation": [-160, -89, -131.5],
+      "translation": [0.63, 5.7, 1.13],
+      "scale": [0.79133, 0.79133, 0.79133]
+    },
+    "firstperson_lefthand": {
+      "rotation": [110, 89, -131.5],
+      "translation": [0.63, 5.7, 1.13],
+      "scale": [0.79133, 0.79133, 0.79133]
+    },
+    "ground": {
+      "translation": [0, 3, 0],
+      "scale": [0.7, 0.7, 0.7]
+    },
+    "gui": {
+      "translation": [-0.5, 0.5, 0]
+    },
+    "on_shelf": {
+      "rotation": [-45, -90, 0],
+      "translation": [0, -0.5, -0.75],
+      "scale": [1.52734, 1.52734, 1.52734]
+    }
+  }
 }

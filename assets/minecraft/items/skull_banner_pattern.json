@@ -4,9 +4,7 @@
     "property": "minecraft:display_context",
     "cases": [
       {
-        "when": [
-          "fixed"
-        ],
+        "when": ["fixed"],
         "model": {
           "type": "minecraft:model",
           "model": "rmf:item/seasoning_model"

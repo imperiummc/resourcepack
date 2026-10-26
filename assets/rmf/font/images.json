@@ -1,2582 +1,2010 @@
 {
   "providers": [
     {
-	  "type": "space",
-	    "advances": {
-		  " ": 4,
-		  "\uf000": 200
-		  }
-	  },
+      "type": "space",
+      "advances": {
+        " ": 4,
+        "\uf000": 200
+      }
+    },
     {
       "type": "bitmap",
       "file": "rmf:images/beef_burger.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua006"
-      ]
+      "chars": ["\ua006"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/cheeseburger.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua019"
-      ]
+      "chars": ["\ua019"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/chicken_burger.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua021"
-      ]
+      "chars": ["\ua021"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/farmer_burger.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua044"
-      ]
+      "chars": ["\ua044"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/fillet_burger.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua046"
-      ]
+      "chars": ["\ua046"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/impossible_burger.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua071"
-      ]
+      "chars": ["\ua071"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/cheesecake.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua020"
-      ]
+      "chars": ["\ua020"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/burrito.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua013"
-      ]
+      "chars": ["\ua013"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/veg_burrito.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua126"
-      ]
+      "chars": ["\ua126"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/cheese_sandwich.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua018"
-      ]
+      "chars": ["\ua018"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/mct_sandwich.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua082"
-      ]
+      "chars": ["\ua082"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/fish_and_chips.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua047"
-      ]
+      "chars": ["\ua047"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/frosted_pumpkin_pie.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua054"
-      ]
+      "chars": ["\ua054"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/hot_dog.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua069"
-      ]
+      "chars": ["\ua069"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/kabob.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua072"
-      ]
+      "chars": ["\ua072"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/meaty_pizza_slice.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua083"
-      ]
+      "chars": ["\ua083"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/popcorn_bucket.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua098"
-      ]
+      "chars": ["\ua098"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/hearty_stew.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua038"
-      ]
+      "chars": ["\ua038"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/ramen.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua106"
-      ]
+      "chars": ["\ua106"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/stuffed_potato.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua121"
-      ]
+      "chars": ["\ua121"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/fried_dragon_egg.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua049"
-      ]
+      "chars": ["\ua049"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/fried_sniffer_egg.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua052"
-      ]
+      "chars": ["\ua052"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/apple_pie.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua001"
-      ]
+      "chars": ["\ua001"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/baguette.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua003"
-      ]
+      "chars": ["\ua003"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/filled_donut.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua045"
-      ]
+      "chars": ["\ua045"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/glow_filled_donut.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua060"
-      ]
+      "chars": ["\ua060"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/cheese_pizza_slice.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua017"
-      ]
+      "chars": ["\ua017"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/garlic_bread.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua056"
-      ]
+      "chars": ["\ua056"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/veg_pizza_slice.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua127"
-      ]
+      "chars": ["\ua127"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/chicken_parmesan.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua022"
-      ]
+      "chars": ["\ua022"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/chicken_soup.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua023"
-      ]
+      "chars": ["\ua023"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/churro.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua027"
-      ]
+      "chars": ["\ua027"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/french_toast.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua048"
-      ]
+      "chars": ["\ua048"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/fried_rice.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua051"
-      ]
+      "chars": ["\ua051"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/honeyed_apple.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua067"
-      ]
+      "chars": ["\ua067"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/honey_chicken.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua064"
-      ]
+      "chars": ["\ua064"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/lasagna.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua073"
-      ]
+      "chars": ["\ua073"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/mac_and_cheese.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua076"
-      ]
+      "chars": ["\ua076"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/sweet_berry_jam.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua122"
-      ]
+      "chars": ["\ua122"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/glow_berry_jam.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua059"
-      ]
+      "chars": ["\ua059"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/ominous_cookie.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua090"
-      ]
+      "chars": ["\ua090"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/pierogi.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua095"
-      ]
+      "chars": ["\ua095"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/poutine.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua099"
-      ]
+      "chars": ["\ua099"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/sheperd_pie.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua118"
-      ]
+      "chars": ["\ua118"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/taco.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua123"
-      ]
+      "chars": ["\ua123"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/veggie_dog.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua131"
-      ]
+      "chars": ["\ua131"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/apple_pie_slice.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua002"
-      ]
+      "chars": ["\ua002"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/strawberry.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua119"
-      ]
+      "chars": ["\ua119"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/berry_cookie.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua007"
-      ]
+      "chars": ["\ua007"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/cocoa_cookie.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua029"
-      ]
+      "chars": ["\ua029"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/glow_berry_cookie.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua041"
-      ]
+      "chars": ["\ua041"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/honey_cookie.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua065"
-      ]
+      "chars": ["\ua065"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/brownie.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua011"
-      ]
+      "chars": ["\ua011"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/cake_slice.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua014"
-      ]
+      "chars": ["\ua014"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/chocolate_cake_slice.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua024"
-      ]
+      "chars": ["\ua024"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/cracker.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua034"
-      ]
+      "chars": ["\ua034"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/dark_chocolate_bar.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua037"
-      ]
+      "chars": ["\ua037"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/milk_chocolate_bar.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua087"
-      ]
+      "chars": ["\ua087"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/white_chocolate_bar.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua133"
-      ]
+      "chars": ["\ua133"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/diamond_apple.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua039"
-      ]
+      "chars": ["\ua039"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/emerald_apple.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua040"
-      ]
+      "chars": ["\ua040"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/enchanted_diamond_apple.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua144"
-      ]
+      "chars": ["\ua144"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/enchanted_emerald_apple.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua146"
-      ]
+      "chars": ["\ua146"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/marshmallows.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua081"
-      ]
+      "chars": ["\ua081"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/marshmallow_stick.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua080"
-      ]
+      "chars": ["\ua080"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/roasted_marshmallow_stick.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua112"
-      ]
+      "chars": ["\ua112"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/salad.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua114"
-      ]
+      "chars": ["\ua114"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/red_snow_cone.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua108"
-      ]
+      "chars": ["\ua108"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/plain_ice_cream.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua070"
-      ]
+      "chars": ["\ua070"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/cut_potatoes.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua036"
-      ]
+      "chars": ["\ua036"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/pumpkin_pie_slice.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua102"
-      ]
+      "chars": ["\ua102"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/cupcake.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua141"
-      ]
+      "chars": ["\ua141"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/chocolate_cupcake.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua142"
-      ]
+      "chars": ["\ua142"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/cereal.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua015"
-      ]
+      "chars": ["\ua015"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/coconut_half.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua031"
-      ]
+      "chars": ["\ua031"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/croissant.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua035"
-      ]
+      "chars": ["\ua035"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/plain_donut.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua097"
-      ]
+      "chars": ["\ua097"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/glazed_donut.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua057"
-      ]
+      "chars": ["\ua057"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/prickly_pear.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua101"
-      ]
+      "chars": ["\ua101"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/plain_muffin.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua138"
-      ]
+      "chars": ["\ua138"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/sweet_berry_muffin.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua139"
-      ]
+      "chars": ["\ua139"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/glow_berry_muffin.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua140"
-      ]
+      "chars": ["\ua140"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/pretzel.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua100"
-      ]
+      "chars": ["\ua100"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/quesadilla.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua105"
-      ]
+      "chars": ["\ua105"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/veg_quesadilla.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua128"
-      ]
+      "chars": ["\ua128"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/burned_marshmallow_stick.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua012"
-      ]
+      "chars": ["\ua012"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/rice_bowl.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua110"
-      ]
+      "chars": ["\ua110"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/sushi.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua115"
-      ]
+      "chars": ["\ua115"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/veg_taco.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua129"
-      ]
+      "chars": ["\ua129"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/roasted_carrot.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua111"
-      ]
+      "chars": ["\ua111"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/zombie_jerky.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua137"
-      ]
+      "chars": ["\ua137"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/stock.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua147"
-      ]
+      "chars": ["\ua147"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/honeycomb_candy.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua066"
-      ]
+      "chars": ["\ua066"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/fried_tofu.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua053"
-      ]
+      "chars": ["\ua053"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/fried_egg.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua050"
-      ]
+      "chars": ["\ua050"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/pumpkin_slice.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua103"
-      ]
+      "chars": ["\ua103"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/yogurt.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua136"
-      ]
+      "chars": ["\ua136"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/apple_juice.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua000"
-      ]
+      "chars": ["\ua000"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/chocolate_milk.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua026"
-      ]
+      "chars": ["\ua026"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/coffee.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua032"
-      ]
+      "chars": ["\ua032"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/golden_apple_juice.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua061"
-      ]
+      "chars": ["\ua061"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/hot_cocoa.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua068"
-      ]
+      "chars": ["\ua068"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/strawberry_smoothie.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua120"
-      ]
+      "chars": ["\ua120"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/melon_smoothie.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua085"
-      ]
+      "chars": ["\ua085"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/tea.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua124"
-      ]
+      "chars": ["\ua124"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/fruit_punch.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua055"
-      ]
+      "chars": ["\ua055"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/melon_mash.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua084"
-      ]
+      "chars": ["\ua084"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/banana.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua004"
-      ]
+      "chars": ["\ua004"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/cheese_sponge.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua016"
-      ]
+      "chars": ["\ua016"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/coffee_beans.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua033"
-      ]
+      "chars": ["\ua033"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/honey_ball.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua063"
-      ]
+      "chars": ["\ua063"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/milk_barrel.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua086"
-      ]
+      "chars": ["\ua086"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/coconut.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua030"
-      ]
+      "chars": ["\ua030"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/mango.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua077"
-      ]
+      "chars": ["\ua077"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/pasta.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua092"
-      ]
+      "chars": ["\ua092"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/rice.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua109"
-      ]
+      "chars": ["\ua109"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/seasoning.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua116"
-      ]
+      "chars": ["\ua116"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/tofu.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua125"
-      ]
+      "chars": ["\ua125"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/peach.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua093"
-      ]
+      "chars": ["\ua093"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/soy_milk.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua143"
-      ]
+      "chars": ["\ua143"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/coconut_milk.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua148"
-      ]
+      "chars": ["\ua148"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/vegetable_oil.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua130"
-      ]
+      "chars": ["\ua130"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/water_barrel.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua132"
-      ]
+      "chars": ["\ua132"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/tomato.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua149"
-      ]
+      "chars": ["\ua149"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/mortar_and_pestle.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua089"
-      ]
+      "chars": ["\ua089"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/shaker_cup.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua117"
-      ]
+      "chars": ["\ua117"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/cleaver.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua028"
-      ]
+      "chars": ["\ua028"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/chef_hat.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua145"
-      ]
+      "chars": ["\ua145"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/monster_mash.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua088"
-      ]
+      "chars": ["\ua088"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rmf:images/rotten_tomato.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua113"
-      ]
+      "chars": ["\ua113"]
     },
     {
       "type": "bitmap",
       "file": "rmf:images/cooked_ham.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua150"
-      ]
+      "chars": ["\ua150"]
     },
     {
       "type": "bitmap",
       "file": "rmf:images/corn_dog.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua151"
-      ]
+      "chars": ["\ua151"]
     },
     {
       "type": "bitmap",
       "file": "rmf:images/large_popcorn_bag.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua152"
-      ]
+      "chars": ["\ua152"]
     },
     {
       "type": "bitmap",
       "file": "rmf:images/medium_popcorn_bag.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua153"
-      ]
+      "chars": ["\ua153"]
     },
     {
       "type": "bitmap",
       "file": "rmf:images/small_popcorn_bag.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua154"
-      ]
+      "chars": ["\ua154"]
     },
     {
       "type": "bitmap",
       "file": "rmf:images/stuffed_pumpkin.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua155"
-      ]
+      "chars": ["\ua155"]
     },
     {
       "type": "bitmap",
       "file": "rmf:images/menu.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua156"
-      ]
+      "chars": ["\ua156"]
     },
     {
       "type": "bitmap",
       "file": "rmf:images/cooked_bacon.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua157"
-      ]
+      "chars": ["\ua157"]
     },
     {
       "type": "bitmap",
       "file": "rmf:images/marshmallow_sandwich.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua158"
-      ]
+      "chars": ["\ua158"]
     },
     {
       "type": "bitmap",
       "file": "rmf:images/pizza_pouch.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua159"
-      ]
+      "chars": ["\ua159"]
     },
     {
       "type": "bitmap",
       "file": "rmf:images/pumpkin_soup.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua160"
-      ]
+      "chars": ["\ua160"]
     },
     {
       "type": "bitmap",
       "file": "rmf:images/tomato_soup.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua161"
-      ]
+      "chars": ["\ua161"]
     },
     {
       "type": "bitmap",
       "file": "rmf:images/veg_corn_dog.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua162"
-      ]
+      "chars": ["\ua162"]
     },
     {
       "type": "bitmap",
       "file": "rmf:images/blackberry.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua163"
-      ]
+      "chars": ["\ua163"]
     },
     {
       "type": "bitmap",
       "file": "rmf:images/blackberry2.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua164"
-      ]
+      "chars": ["\ua164"]
     },
     {
       "type": "bitmap",
       "file": "rmf:images/blueberry.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua165"
-      ]
+      "chars": ["\ua165"]
     },
     {
       "type": "bitmap",
       "file": "rmf:images/blueberry2.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua166"
-      ]
+      "chars": ["\ua166"]
     },
     {
       "type": "bitmap",
       "file": "rmf:images/raspberry.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua167"
-      ]
+      "chars": ["\ua167"]
     },
     {
       "type": "bitmap",
       "file": "rmf:images/raspberry2.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua168"
-      ]
+      "chars": ["\ua168"]
     },
     {
       "type": "bitmap",
       "file": "rmf:images/strawberry2.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua169"
-      ]
+      "chars": ["\ua169"]
     },
     {
       "type": "bitmap",
       "file": "rmf:images/chocolate_ice_cream.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua170"
-      ]
+      "chars": ["\ua170"]
     },
     {
       "type": "bitmap",
       "file": "rmf:images/cooked_chicken_wing.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua171"
-      ]
+      "chars": ["\ua171"]
     },
     {
       "type": "bitmap",
       "file": "rmf:images/cooked_pufferfish_tail.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua172"
-      ]
+      "chars": ["\ua172"]
     },
     {
       "type": "bitmap",
       "file": "rmf:images/nacho.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua173"
-      ]
+      "chars": ["\ua173"]
     },
     {
       "type": "bitmap",
       "file": "rmf:images/bacon.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua174"
-      ]
+      "chars": ["\ua174"]
     },
     {
       "type": "bitmap",
       "file": "rmf:images/ham.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua175"
-      ]
+      "chars": ["\ua175"]
     },
     {
       "type": "bitmap",
       "file": "rmf:images/blazing_stew.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua176"
-      ]
+      "chars": ["\ua176"]
     },
     {
       "type": "bitmap",
       "file": "rmf:images/chicken_wing.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua177"
-      ]
+      "chars": ["\ua177"]
     },
     {
       "type": "bitmap",
       "file": "rmf:images/cooked_corn.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua178"
-      ]
+      "chars": ["\ua178"]
     },
     {
       "type": "bitmap",
       "file": "rmf:images/corn.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua179"
-      ]
+      "chars": ["\ua179"]
     },
     {
       "type": "bitmap",
       "file": "rmf:images/dumpling.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua180"
-      ]
+      "chars": ["\ua180"]
     },
     {
       "type": "bitmap",
       "file": "rmf:images/hard_boiled_egg.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua181"
-      ]
+      "chars": ["\ua181"]
     },
     {
       "type": "bitmap",
       "file": "rmf:images/orange.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua182"
-      ]
+      "chars": ["\ua182"]
     },
     {
       "type": "bitmap",
       "file": "rmf:images/pale_apple.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua183"
-      ]
+      "chars": ["\ua183"]
     },
     {
       "type": "bitmap",
       "file": "rmf:images/popped_corn.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua184"
-      ]
+      "chars": ["\ua184"]
     },
     {
       "type": "bitmap",
       "file": "rmf:images/pufferfish_tail.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua185"
-      ]
+      "chars": ["\ua185"]
     },
     {
       "type": "bitmap",
       "file": "rmf:images/soft_boiled_egg.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua186"
-      ]
+      "chars": ["\ua186"]
     },
     {
       "type": "bitmap",
       "file": "rmf:images/spicy_mushroom_stew.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua187"
-      ]
+      "chars": ["\ua187"]
     },
     {
       "type": "bitmap",
       "file": "rmf:images/vibrant_apple.png",
       "height": 55,
       "ascent": 4,
-      "chars": [
-        "\ua188"
-      ]
+      "chars": ["\ua188"]
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua189"
-      ],
+      "chars": ["\ua189"],
       "file": "rmf:images/banana_juice.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua190"
-      ],
+      "chars": ["\ua190"],
       "file": "rmf:images/cactus_juice.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua191"
-      ],
+      "chars": ["\ua191"],
       "file": "rmf:images/grape_juice.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua192"
-      ],
+      "chars": ["\ua192"],
       "file": "rmf:images/mango_juice.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua193"
-      ],
+      "chars": ["\ua193"],
       "file": "rmf:images/melon_juice.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua194"
-      ],
+      "chars": ["\ua194"],
       "file": "rmf:images/orange_juice.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua195"
-      ],
+      "chars": ["\ua195"],
       "file": "rmf:images/peach_juice.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua196"
-      ],
+      "chars": ["\ua196"],
       "file": "rmf:images/pineapple_juice.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua197"
-      ],
+      "chars": ["\ua197"],
       "file": "rmf:images/banana_smoothie.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua198"
-      ],
+      "chars": ["\ua198"],
       "file": "rmf:images/blackberry_smoothie.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua199"
-      ],
+      "chars": ["\ua199"],
       "file": "rmf:images/blueberry_smoothie.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua200"
-      ],
+      "chars": ["\ua200"],
       "file": "rmf:images/mango_smoothie.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua201"
-      ],
+      "chars": ["\ua201"],
       "file": "rmf:images/peach_smoothie.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua202"
-      ],
+      "chars": ["\ua202"],
       "file": "rmf:images/raspberry_smoothie.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua203"
-      ],
+      "chars": ["\ua203"],
       "file": "rmf:images/oat_milk.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua204"
-      ],
+      "chars": ["\ua204"],
       "file": "rmf:images/cottage_cheese.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua205"
-      ],
+      "chars": ["\ua205"],
       "file": "rmf:images/dough.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua206"
-      ],
+      "chars": ["\ua206"],
       "file": "rmf:images/lettuce.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua207"
-      ],
+      "chars": ["\ua207"],
       "file": "rmf:images/popcorn_seeds.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua208"
-      ],
+      "chars": ["\ua208"],
       "file": "rmf:images/tomato_sauce.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua209"
-      ],
+      "chars": ["\ua209"],
       "file": "rmf:images/vinegar.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua210"
-      ],
+      "chars": ["\ua210"],
       "file": "rmf:images/chef_apron.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua211"
-      ],
+      "chars": ["\ua211"],
       "file": "rmf:images/cooking_pot.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua212"
-      ],
+      "chars": ["\ua212"],
       "file": "rmf:images/frying_pan.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua213"
-      ],
+      "chars": ["\ua213"],
       "file": "rmf:images/item_crate.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua214"
-      ],
+      "chars": ["\ua214"],
       "file": "rmf:images/juicer.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua215"
-      ],
+      "chars": ["\ua215"],
       "file": "rmf:images/popcorn_bag.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua216"
-      ],
+      "chars": ["\ua216"],
       "file": "rmf:images/punnet.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua217"
-      ],
+      "chars": ["\ua217"],
       "file": "rmf:images/tomato_seeds.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua218"
-      ],
+      "chars": ["\ua218"],
       "file": "rmf:images/wooden_shears.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua219"
-      ],
+      "chars": ["\ua219"],
       "file": "rmf:images/dragon_fruit_pie.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua220"
-      ],
+      "chars": ["\ua220"],
       "file": "rmf:images/dragon_fruit_mix.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua221"
-      ],
+      "chars": ["\ua221"],
       "file": "rmf:images/fruitcake.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua222"
-      ],
+      "chars": ["\ua222"],
       "file": "rmf:images/unbaked_fruitcake.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua223"
-      ],
+      "chars": ["\ua223"],
       "file": "rmf:images/mashed_potatoes.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua224"
-      ],
+      "chars": ["\ua224"],
       "file": "rmf:images/spaghetti.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua225"
-      ],
+      "chars": ["\ua225"],
       "file": "rmf:images/curry.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua226"
-      ],
+      "chars": ["\ua226"],
       "file": "rmf:images/glow_berry_pie.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua227"
-      ],
+      "chars": ["\ua227"],
       "file": "rmf:images/sushi_log.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua228"
-      ],
+      "chars": ["\ua228"],
       "file": "rmf:images/sweet_berry_pie.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua229"
-      ],
+      "chars": ["\ua229"],
       "file": "rmf:images/omelette.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua230"
-      ],
+      "chars": ["\ua230"],
       "file": "rmf:images/pale_berries.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua231"
-      ],
+      "chars": ["\ua231"],
       "file": "rmf:images/peanut.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua232"
-      ],
+      "chars": ["\ua232"],
       "file": "rmf:images/unbaked_beans.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua233"
-      ],
+      "chars": ["\ua233"],
       "file": "rmf:images/baked_beans.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua234"
-      ],
+      "chars": ["\ua234"],
       "file": "rmf:images/dog_food.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua235"
-      ],
+      "chars": ["\ua235"],
       "file": "rmf:images/dragon_fruit.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua236"
-      ],
+      "chars": ["\ua236"],
       "file": "rmf:images/granola.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua237"
-      ],
+      "chars": ["\ua237"],
       "file": "rmf:images/incinerated_marshmallow_stick.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua238"
-      ],
+      "chars": ["\ua238"],
       "file": "rmf:images/miso_soup.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua239"
-      ],
+      "chars": ["\ua239"],
       "file": "rmf:images/monster_jerky.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua240"
-      ],
+      "chars": ["\ua240"],
       "file": "rmf:images/nether_wart_soup.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua241"
-      ],
+      "chars": ["\ua241"],
       "file": "rmf:images/rice_cake.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua242"
-      ],
+      "chars": ["\ua242"],
       "file": "rmf:images/dragon_fruit_juice.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua243"
-      ],
+      "chars": ["\ua243"],
       "file": "rmf:images/dragon_fruit_smoothie.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua244"
-      ],
+      "chars": ["\ua244"],
       "file": "rmf:images/iced_tea.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua245"
-      ],
+      "chars": ["\ua245"],
       "file": "rmf:images/enchanted_golden_apple_juice.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua246"
-      ],
+      "chars": ["\ua246"],
       "file": "rmf:images/cheese_end_stone.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua247"
-      ],
+      "chars": ["\ua247"],
       "file": "rmf:images/coffee_grounds.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua248"
-      ],
+      "chars": ["\ua248"],
       "file": "rmf:images/herbs.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua249"
-      ],
+      "chars": ["\ua249"],
       "file": "rmf:images/pie_crust.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua250"
-      ],
+      "chars": ["\ua250"],
       "file": "rmf:images/raw_omelette.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua251"
-      ],
+      "chars": ["\ua251"],
       "file": "rmf:images/pasta_stonecutter.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua252"
-      ],
+      "chars": ["\ua252"],
       "file": "rmf:images/salt.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua253"
-      ],
+      "chars": ["\ua253"],
       "file": "rmf:images/taiga_beans.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua254"
-      ],
+      "chars": ["\ua254"],
       "file": "rmf:images/taiga_flour.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua255"
-      ],
+      "chars": ["\ua255"],
       "file": "rmf:images/wheat_flour.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua256"
-      ],
+      "chars": ["\ua256"],
       "file": "rmf:images/wild_carrot.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua257"
-      ],
+      "chars": ["\ua257"],
       "file": "rmf:images/wild_potato.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua258"
-      ],
+      "chars": ["\ua258"],
       "file": "rmf:images/baking_pan.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua259"
-      ],
+      "chars": ["\ua259"],
       "file": "rmf:images/biomash.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua260"
-      ],
+      "chars": ["\ua260"],
       "file": "rmf:images/biomass.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua261"
-      ],
+      "chars": ["\ua261"],
       "file": "rmf:images/crowbar.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua262"
-      ],
+      "chars": ["\ua262"],
       "file": "rmf:images/cutting_board.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua263"
-      ],
+      "chars": ["\ua263"],
       "file": "rmf:images/mixing_bowl.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua264"
-      ],
+      "chars": ["\ua264"],
       "file": "rmf:images/powder_snow_slab.png",
       "height": 55,
       "type": "bitmap"
     },
-	{
+    {
       "ascent": 4,
-      "chars": [
-        "\ua265"
-      ],
+      "chars": ["\ua265"],
       "file": "rmf:images/rotten_tomato_craft.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua266"
-      ],
+      "chars": ["\ua266"],
       "file": "rmf:images/lemon.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua267"
-      ],
+      "chars": ["\ua267"],
       "file": "rmf:images/lemon_juice.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua268"
-      ],
+      "chars": ["\ua268"],
       "file": "rmf:images/lemonade.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua269"
-      ],
+      "chars": ["\ua269"],
       "file": "rmf:images/uncooked_glow_berry_jam.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua270"
-      ],
+      "chars": ["\ua270"],
       "file": "rmf:images/uncooked_sweet_berry_jam.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua271"
-      ],
+      "chars": ["\ua271"],
       "file": "rmf:images/egg_roll.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua272"
-      ],
+      "chars": ["\ua272"],
       "file": "rmf:images/uncooked_egg_roll.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua273"
-      ],
+      "chars": ["\ua273"],
       "file": "rmf:images/lemon_pie_mix.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua274"
-      ],
+      "chars": ["\ua274"],
       "file": "rmf:images/lemon_pie.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua275"
-      ],
+      "chars": ["\ua275"],
       "file": "rmf:images/peanut_butter.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua276"
-      ],
+      "chars": ["\ua276"],
       "file": "rmf:images/pbj_sandwich.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua277"
-      ],
+      "chars": ["\ua277"],
       "file": "rmf:images/glow_pbj_sandwich.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua278"
-      ],
+      "chars": ["\ua278"],
       "file": "rmf:images/banana_dough.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua279"
-      ],
+      "chars": ["\ua279"],
       "file": "rmf:images/banana_dough2.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua280"
-      ],
+      "chars": ["\ua280"],
       "file": "rmf:images/banana_bread.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua281"
-      ],
+      "chars": ["\ua281"],
       "file": "rmf:images/diamond_shears.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua282"
-      ],
+      "chars": ["\ua282"],
       "file": "rmf:images/toast.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua283"
-      ],
+      "chars": ["\ua283"],
       "file": "rmf:images/chocolate_cake.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua284"
-      ],
+      "chars": ["\ua284"],
       "file": "rmf:images/carrot_cake.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua285"
-      ],
+      "chars": ["\ua285"],
       "file": "rmf:images/veg_kabob.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua286"
-      ],
+      "chars": ["\ua286"],
       "file": "rmf:images/berry_bowl.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua287"
-      ],
+      "chars": ["\ua287"],
       "file": "rmf:images/honeybun.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua288"
-      ],
+      "chars": ["\ua288"],
       "file": "rmf:images/pancake_mix.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua289"
-      ],
+      "chars": ["\ua289"],
       "file": "rmf:images/pancake_mix2.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua290"
-      ],
+      "chars": ["\ua290"],
       "file": "rmf:images/pancake.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua291"
-      ],
+      "chars": ["\ua291"],
       "file": "rmf:images/waffle_batter.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua292"
-      ],
+      "chars": ["\ua292"],
       "file": "rmf:images/waffle_batter2.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua293"
-      ],
+      "chars": ["\ua293"],
       "file": "rmf:images/waffle.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua294"
-      ],
+      "chars": ["\ua294"],
       "file": "rmf:images/cat_food.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua295"
-      ],
+      "chars": ["\ua295"],
       "file": "rmf:images/oatmeal.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua296"
-      ],
+      "chars": ["\ua296"],
       "file": "rmf:images/raw_eggs.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua297"
-      ],
+      "chars": ["\ua297"],
       "file": "rmf:images/scrambled_eggs.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua298"
-      ],
+      "chars": ["\ua298"],
       "file": "rmf:images/straw_hat.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua299"
-      ],
+      "chars": ["\ua299"],
       "file": "rmf:images/plate.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua300"
-      ],
+      "chars": ["\ua300"],
       "file": "rmf:images/lunch_box.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua301"
-      ],
+      "chars": ["\ua301"],
       "file": "rmf:images/scythe.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua302"
-      ],
+      "chars": ["\ua302"],
       "file": "rmf:images/ribs.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua303"
-      ],
+      "chars": ["\ua303"],
       "file": "rmf:images/cooked_ribs.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua304"
-      ],
+      "chars": ["\ua304"],
       "file": "rmf:images/mutton_burger.png",
       "height": 55,
       "type": "bitmap"
     },
     {
       "ascent": 4,
-      "chars": [
-        "\ua305"
-      ],
+      "chars": ["\ua305"],
       "file": "rmf:images/pudding.png",
       "height": 55,
       "type": "bitmap"

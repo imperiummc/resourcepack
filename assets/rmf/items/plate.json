@@ -4,10 +4,7 @@
     "property": "minecraft:display_context",
     "cases": [
       {
-        "when": [
-          "gui",
-          "on_shelf"
-        ],
+        "when": ["gui", "on_shelf"],
         "model": {
           "type": "minecraft:model",
           "model": "rmf:item/plate"

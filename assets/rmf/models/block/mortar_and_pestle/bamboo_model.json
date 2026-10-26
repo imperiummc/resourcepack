@@ -1,7 +1,7 @@
 {
-	"credit": "Made with Blockbench, by regfunkid :3",
-	"parent": "rmf:block/mortar_and_pestle",
-	"textures": {
-		"texture": "minecraft:block/bamboo_planks"
-	}
+  "credit": "Made with Blockbench, by regfunkid :3",
+  "parent": "rmf:block/mortar_and_pestle",
+  "textures": {
+    "texture": "minecraft:block/bamboo_planks"
+  }
 }

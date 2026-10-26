@@ -1,14 +1,9 @@
 {
   "air": {
-    "sounds": [
-      "rmf:air"
-    ]
+    "sounds": ["rmf:air"]
   },
   "item.baking_pan.bake": {
-    "sounds": [
-      "rmf:item/baking_pan/bake_1",
-      "rmf:item/baking_pan/bake_2"
-    ],
+    "sounds": ["rmf:item/baking_pan/bake_1", "rmf:item/baking_pan/bake_2"],
     "subtitle": "subtitle.rmf.baking_pan.bake"
   },
   "item.cottage_cheese.eat": {
@@ -30,16 +25,11 @@
     "subtitle": "subtitle.rmf.cutting_board.use"
   },
   "item.dog_food.eat": {
-    "sounds": [
-      "rmf:item/dog_food/eat"
-    ],
+    "sounds": ["rmf:item/dog_food/eat"],
     "subtitle": "subtitle.rmf.dog_food.reaction"
   },
   "item.frying_pan.cook": {
-    "sounds": [
-      "rmf:item/frying_pan/cook_1",
-      "rmf:item/frying_pan/cook_2"
-    ],
+    "sounds": ["rmf:item/frying_pan/cook_1", "rmf:item/frying_pan/cook_2"],
     "subtitle": "subtitle.rmf.frying_pan.cook"
   },
   "item.frying_pan.hit": {
@@ -72,21 +62,15 @@
     "subtitle": "subtitle.rmf.gold_trophy.use"
   },
   "item.item_crate.fail": {
-    "sounds": [
-      "minecraft:item/bundle/insert_fail"
-    ],
+    "sounds": ["minecraft:item/bundle/insert_fail"],
     "subtitle": "subtitle.rmf.item_crate.fail"
   },
   "item.item_crate.open": {
-    "sounds": [
-      "rmf:item/item_crate/open"
-    ],
+    "sounds": ["rmf:item/item_crate/open"],
     "subtitle": "subtitle.rmf.item_crate.open"
   },
   "item.item_crate.store_item": {
-    "sounds": [
-      "minecraft:block/barrel/close"
-    ],
+    "sounds": ["minecraft:block/barrel/close"],
     "subtitle": "subtitle.rmf.item_crate.store_item"
   },
   "item.juicer.shut": {
@@ -117,10 +101,7 @@
     "subtitle": "subtitle.rmf.mixing_bowl.empty"
   },
   "item.mixing_bowl.use": {
-    "sounds": [
-      "rmf:item/mixing_bowl/use1",
-      "rmf:item/mixing_bowl/use2"
-    ],
+    "sounds": ["rmf:item/mixing_bowl/use1", "rmf:item/mixing_bowl/use2"],
     "subtitle": "subtitle.rmf.mixing_bowl.use"
   },
   "item.mortar_and_pestle.use": {
@@ -132,9 +113,7 @@
     "subtitle": "subtitle.rmf.mortar_and_pestle.use"
   },
   "organ_failure": {
-    "sounds": [
-      "rmf:organ_failure"
-    ],
+    "sounds": ["rmf:organ_failure"],
     "subtitle": "subtitle.rmf.organ_failure"
   },
   "item.popcorn_bag.fill": {

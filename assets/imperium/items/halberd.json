@@ -4,22 +4,14 @@
     "property": "minecraft:display_context",
     "cases": [
       {
-        "when": [
-          "gui",
-          "ground",
-          "fixed",
-          "on_shelf"
-        ],
+        "when": ["gui", "ground", "fixed", "on_shelf"],
         "model": {
           "type": "minecraft:model",
           "model": "imperium:item/halberd"
         }
       },
       {
-        "when": [
-          "thirdperson_righthand",
-          "thirdperson_lefthand"
-        ],
+        "when": ["thirdperson_righthand", "thirdperson_lefthand"],
         "model": {
           "type": "minecraft:condition",
           "property": "minecraft:using_item",

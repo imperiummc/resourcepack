@@ -1,20 +1,20 @@
 {
-    "model": {
-      "cases": [
-        {
-          "model": {
-            "model": "rmf:item/water_bottle",
-            "type": "minecraft:model"
-          },
-          "when": "Bottle of Water"
-        }
-      ],
-      "component": "minecraft:custom_name",
-      "fallback": {
-        "model": "minecraft:item/flower_banner_pattern",
-        "type": "minecraft:model"
-      },
-      "property": "minecraft:component",
-      "type": "minecraft:select"
-    }
+  "model": {
+    "cases": [
+      {
+        "model": {
+          "model": "rmf:item/water_bottle",
+          "type": "minecraft:model"
+        },
+        "when": "Bottle of Water"
+      }
+    ],
+    "component": "minecraft:custom_name",
+    "fallback": {
+      "model": "minecraft:item/flower_banner_pattern",
+      "type": "minecraft:model"
+    },
+    "property": "minecraft:component",
+    "type": "minecraft:select"
   }
+}

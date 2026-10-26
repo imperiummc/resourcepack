@@ -53,10 +53,7 @@
         }
       },
       {
-        "when": [
-          "fixed",
-          "on_shelf"
-        ],
+        "when": ["fixed", "on_shelf"],
         "model": {
           "type": "minecraft:model",
           "model": "rmf:item/shaker_cup_model_used"

@@ -4,10 +4,7 @@
     "property": "minecraft:display_context",
     "cases": [
       {
-        "when": [
-          "fixed",
-          "head"
-        ],
+        "when": ["fixed", "head"],
         "model": {
           "type": "minecraft:model",
           "model": "rmf:item/chocolate_cake_model"

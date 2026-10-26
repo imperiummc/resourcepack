@@ -1,17 +1,17 @@
 {
-	"credit": "Made with Blockbench, created by regfunkid :3",
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "rmf:item/cooked_corn"
-	},
-	"display": {
-		"firstperson_righthand": {
-			"rotation": [-62.84, -82.39, -101.97],
-			"translation": [0.88, 2.45, 2.13]
-		},
-		"firstperson_lefthand": {
-			"rotation": [-75.44, -73.83, -21.79],
-			"translation": [2.13, 2.45, 1.38]
-		}
-	}
+  "credit": "Made with Blockbench, created by regfunkid :3",
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "rmf:item/cooked_corn"
+  },
+  "display": {
+    "firstperson_righthand": {
+      "rotation": [-62.84, -82.39, -101.97],
+      "translation": [0.88, 2.45, 2.13]
+    },
+    "firstperson_lefthand": {
+      "rotation": [-75.44, -73.83, -21.79],
+      "translation": [2.13, 2.45, 1.38]
+    }
+  }
 }

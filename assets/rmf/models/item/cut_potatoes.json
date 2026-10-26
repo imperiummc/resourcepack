@@ -1,7 +1,7 @@
 {
-	"credit": "Made with Blockbench, created by regfunkid :3",
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "rmf:item/cut_potatoes"
-	}
+  "credit": "Made with Blockbench, created by regfunkid :3",
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "rmf:item/cut_potatoes"
+  }
 }

@@ -1,19 +1,19 @@
 {
-	"credit": "Made with Blockbench, created by regfunkid :3",
-	"parent": "minecraft:item/handheld",
-	"textures": {
-		"layer0": "rmf:item/marshmallow_stick"
-	},
-	"display": {
-		"firstperson_righthand": {
-			"rotation": [-10.75, 90, 0],
-			"translation": [0, 3.85, -0.2],
-			"scale": [0.68, 0.68, 0.68]
-		},
-		"firstperson_lefthand": {
-			"rotation": [-10.75, -90, 0],
-			"translation": [0, 3.85, -0.2],
-			"scale": [0.68, 0.68, 0.68]
-		}
-	}
+  "credit": "Made with Blockbench, created by regfunkid :3",
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "rmf:item/marshmallow_stick"
+  },
+  "display": {
+    "firstperson_righthand": {
+      "rotation": [-10.75, 90, 0],
+      "translation": [0, 3.85, -0.2],
+      "scale": [0.68, 0.68, 0.68]
+    },
+    "firstperson_lefthand": {
+      "rotation": [-10.75, -90, 0],
+      "translation": [0, 3.85, -0.2],
+      "scale": [0.68, 0.68, 0.68]
+    }
+  }
 }

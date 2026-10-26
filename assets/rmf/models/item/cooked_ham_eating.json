@@ -1,17 +1,17 @@
 {
-	"credit": "Made with Blockbench, created by regfunkid :3",
-	"parent": "minecraft:item/handheld",
-	"textures": {
-		"layer0": "rmf:item/cooked_ham"
-	},
-	"display": {
-		"firstperson_righthand": {
-			"rotation": [-83.41, -72.2, -119.89],
-			"translation": [2.38, 2.45, 2.13]
-		},
-		"firstperson_lefthand": {
-			"rotation": [-75.44, -73.83, -21.79],
-			"translation": [2.13, 2.45, 1.38]
-		}
-	}
+  "credit": "Made with Blockbench, created by regfunkid :3",
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "rmf:item/cooked_ham"
+  },
+  "display": {
+    "firstperson_righthand": {
+      "rotation": [-83.41, -72.2, -119.89],
+      "translation": [2.38, 2.45, 2.13]
+    },
+    "firstperson_lefthand": {
+      "rotation": [-75.44, -73.83, -21.79],
+      "translation": [2.13, 2.45, 1.38]
+    }
+  }
 }

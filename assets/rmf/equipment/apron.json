@@ -1,9 +1,9 @@
 {
-    "layers": {
-      "humanoid_leggings": [
-        {
-          "texture": "rmf:apron"
-        }
-      ]
-    }
+  "layers": {
+    "humanoid_leggings": [
+      {
+        "texture": "rmf:apron"
+      }
+    ]
   }
+}
